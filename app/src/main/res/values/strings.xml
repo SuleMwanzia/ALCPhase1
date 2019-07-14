@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ALC Phase 1</string>
+    <string name="hello_learner_welcome_to_alc_4_0">Hello Learner Welcome To ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+</resources>
